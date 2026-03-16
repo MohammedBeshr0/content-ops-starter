@@ -13,7 +13,7 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: ابدأ الآن
         altText: ''
         url: /
         showIcon: false
@@ -22,12 +22,12 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: انظر الدروس التعليمية
         altText: ''
-        url: /
+        url: /tutorials
         showIcon: true
-        icon: arrowRight
-        iconPosition: right
+        icon: arrowLeft
+        iconPosition: left
         style: primary
         elementId: ''
         type: Link
@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: الفوائد الرئيسية
       color: text-dark
       styles:
         self:
@@ -739,7 +739,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: الرئيسية
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
