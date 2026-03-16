@@ -15,7 +15,7 @@
         {
             "label": "Pricing",
             "url": "/pricing",
-            "icon": "chevronRight",
+            "icon": "chevronBigRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
